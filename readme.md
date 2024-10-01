@@ -98,9 +98,7 @@ _For production using gunicorn (what the production server executes):_
 ```bash
 $ gunicorn wsgi:app
 ```
-Here’s a focused `README.md` section specifically for the CLI commands in your Hire Hub project:
 
-```markdown
 # Hire Hub CLI Commands
 
 The Hire Hub application provides a command-line interface (CLI) to manage job applicants, companies, jobs, and applications. Below are the available commands you can use:
